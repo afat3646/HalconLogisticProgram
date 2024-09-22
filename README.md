@@ -1,2 +1,2 @@
 # HalconLogisticProgram
-This repository is dedicated for the project of web design signature of tecmilenio 
+This repository was created for the Web Application Design course project.
